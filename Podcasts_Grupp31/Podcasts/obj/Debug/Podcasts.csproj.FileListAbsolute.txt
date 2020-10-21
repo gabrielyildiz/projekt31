@@ -1,0 +1,10 @@
+C:\Users\Efe\source\repos\Podcasts\Podcasts\bin\Debug\Podcasts.exe.config
+C:\Users\Efe\source\repos\Podcasts\Podcasts\bin\Debug\Podcasts.exe
+C:\Users\Efe\source\repos\Podcasts\Podcasts\bin\Debug\Podcasts.pdb
+C:\Users\Efe\source\repos\Podcasts\Podcasts\obj\Debug\Podcasts.csprojAssemblyReference.cache
+C:\Users\Efe\source\repos\Podcasts\Podcasts\obj\Debug\Podcasts.Podcasts.resources
+C:\Users\Efe\source\repos\Podcasts\Podcasts\obj\Debug\Podcasts.Properties.Resources.resources
+C:\Users\Efe\source\repos\Podcasts\Podcasts\obj\Debug\Podcasts.csproj.GenerateResource.cache
+C:\Users\Efe\source\repos\Podcasts\Podcasts\obj\Debug\Podcasts.csproj.CoreCompileInputs.cache
+C:\Users\Efe\source\repos\Podcasts\Podcasts\obj\Debug\Podcasts.exe
+C:\Users\Efe\source\repos\Podcasts\Podcasts\obj\Debug\Podcasts.pdb
